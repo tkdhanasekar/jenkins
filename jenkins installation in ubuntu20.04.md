@@ -45,21 +45,21 @@ find the default password for jenkins server
 ```
 ![title](Images/3.png)
 \
-:small_blue_diamond:next
+:small_blue_diamond: __next__
 ![title](Images/4.png)
 \
-:small_blue_diamond:next
+:small_blue_diamond: __next__
 ![title](Images/5.png)
 \
-:small_blue_diamond:next
+:small_blue_diamond: __next__
 ![title](Images/6.png)
 \
-:small_blue_diamond:next
+:small_blue_diamond: __next__
 ![title](Images/7.png)
 \
-:small_blue_diamond:next
+:small_blue_diamond: __next__
 ![title](Images/8.png)
 \
-:small_blue_diamond:next
+:small_blue_diamond: __next__
 ![title](Images/9.png)
 done :smile:
