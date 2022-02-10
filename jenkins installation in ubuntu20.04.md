@@ -43,5 +43,5 @@ find the default password for jenkins server
 ```
 # cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
-![title](Images/3.png)
+
 
