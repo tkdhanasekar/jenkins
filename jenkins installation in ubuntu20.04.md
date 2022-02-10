@@ -1,6 +1,6 @@
 :red_square: __Jenkins installation in Ubuntu__
 
-:blue_small_diamond: update the server
+:small_blue_diamond: update the server
 ```
 # apt update -y
 ```
